@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "app.adjust.world",
+        "d1nuibj2c6a6xf.cloudfront.net",
+        "d2nk6ypjbnrzgg.cloudfront.net",
+        "elb.housamo.jp",
+        "game-version.sekai.colorfulpalette.org",
+        "gcloud.pokemon-unitepgame.com",
+        "gg-client-w.crave-saga.net",
+        "gg-resource.crave-saga.net",
+        "gg-server.crave-saga.net",
+        "image.pokemon-unitepgame.com",
+        "production-cf2d2388-assetbundle-info.sekai.colorfulpalette.org",
+        "production-cf2d2388-assetbundle.sekai.colorfulpalette.org",
+        "production-game-api.sekai.colorfulpalette.org",
+        "resource.pokemon-home.com",
+        "twinnrhhblenxjgd.pokemon-home.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "nijitama.app",
+        "pazuani.net",
+        "tukitama.com"
+      ]
+    }
+  ],
+  "version": 2
+}

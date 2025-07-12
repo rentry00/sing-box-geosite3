@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "edge-itunes-apple.com.akadns.net",
+        "itunes.apple.com",
+        "itunes.g.aaplimg.com"
+      ]
+    }
+  ],
+  "version": 2
+}

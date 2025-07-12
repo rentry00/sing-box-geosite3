@@ -1,0 +1,69 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "facebook",
+        "fb",
+        "ig",
+        "instagram",
+        "vidio",
+        "vidio-com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cdninstagram.com",
+        "facebook-dns.com",
+        "facebook-hardware.com",
+        "facebook.co.id",
+        "facebook.com",
+        "facebook.net",
+        "facebookmail.com",
+        "fb.com",
+        "fb.gg",
+        "fb.watch",
+        "fbcdn.net",
+        "fbe2e.com",
+        "fbinfra.net",
+        "fbpigeon.com",
+        "fbsbx.com",
+        "fbwat.ch",
+        "ig.me",
+        "ig.org",
+        "igcdn.com",
+        "igsonar.com",
+        "igtv.com",
+        "instagram-brand.com",
+        "instagram-engineering.com",
+        "instagram-help.com",
+        "instagram-press.com",
+        "instagram-press.net",
+        "instagram.com",
+        "instagramci.com",
+        "instagramcn.com",
+        "instagramdi.com",
+        "instagramhashtags.net",
+        "instagramhilecim.com",
+        "instagramhilesi.org",
+        "instagramium.com",
+        "instagramizlenme.com",
+        "instagramkusu.com",
+        "instagramlogin.com",
+        "instagramm.com",
+        "instagramn.com",
+        "instagrampartners.com",
+        "instagramphoto.com",
+        "instagramq.com",
+        "instagramsepeti.com",
+        "instagramtakipcisatinal.net",
+        "instagramtakiphilesi.com",
+        "instagramtips.com",
+        "instagramtr.com",
+        "vidio.com",
+        "vidiocdn.com",
+        "vidiocdn.net"
+      ]
+    }
+  ],
+  "version": 2
+}

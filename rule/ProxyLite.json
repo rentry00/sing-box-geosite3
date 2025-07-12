@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "carpt.net",
+        "crabpt.vip",
+        "gorelay.net",
+        "haidan.video",
+        "hawke.uno",
+        "hdfans.org",
+        "ip2world.com",
+        "piggo.me",
+        "pt.cdfile.org",
+        "ptcafe.club",
+        "ptchina.org",
+        "pttime.org",
+        "raingfh.top",
+        "torrentleech.org",
+        "ubits.club",
+        "unraid.net"
+      ]
+    }
+  ],
+  "version": 2
+}

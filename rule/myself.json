@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api.sprig.com",
+        "mcreadme.gitbook.io",
+        "rutracker.org",
+        "thebyrut.org",
+        "web.nebula-media.org",
+        "wiki.repcz.link",
+        "www.nodeseek.com",
+        "xfltd.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "asmhentai",
+        "serv00"
+      ]
+    }
+  ],
+  "version": 2
+}

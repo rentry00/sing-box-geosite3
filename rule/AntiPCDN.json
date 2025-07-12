@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bsccdn.net",
+        "gjfzpt.cn",
+        "jomodns.cn",
+        "kuiniuca.com",
+        "mcdn.bilivideo.cn",
+        "onethingpcs.com",
+        "p2p.huya.com",
+        "pcdn.xmcdn.com",
+        "pcdn.yximgs.com",
+        "pkoplink.com",
+        "saxysec.com",
+        "stun.hitv.com",
+        "szbdyd.com",
+        "tpa-hcdn.iqiyi.com",
+        "uhabo.com",
+        "xycdn.com"
+      ]
+    }
+  ],
+  "version": 2
+}

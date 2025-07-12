@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "asmr-100.com",
+        "asmr-200.com",
+        "asmr-200.one",
+        "asmr-300.com",
+        "asmr.one",
+        "kiko-play-niptan.one"
+      ]
+    }
+  ],
+  "version": 2
+}

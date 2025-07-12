@@ -1,0 +1,36 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "min-api.cryptocompare.com",
+        "token-api.metaswap.codefi.network"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "binance",
+        "metamask"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "appsflayer.com",
+        "binance.cloud",
+        "binance.com",
+        "binance.me",
+        "binancecnt.com",
+        "binancefuture.com",
+        "bnappzh.co",
+        "bnbstatic.com",
+        "bnbzh.ac",
+        "bntrace.com",
+        "okex.com",
+        "oklink.com",
+        "okx.com",
+        "saasexch.cc",
+        "saasexch.com"
+      ]
+    }
+  ],
+  "version": 2
+}

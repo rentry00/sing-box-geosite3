@@ -1,0 +1,48 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "pt.ecust.pp.ua"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1ptba.com",
+        "52pt.site",
+        "agsvpt.com",
+        "cyanbug.net",
+        "gamegamept.com",
+        "hddolby.com",
+        "hdkyl.in",
+        "hdpt.xyz",
+        "hdtime.org",
+        "hdvideo.one",
+        "icc2022.com",
+        "iplc.vip",
+        "kufei.org",
+        "m-team.cc",
+        "m-team.io",
+        "okpt.net",
+        "oshen.win",
+        "paypal.cn",
+        "pt.btschool.club",
+        "pt.hdupt.com",
+        "ptzone.xyz",
+        "qingwapt.com",
+        "soulvoice.club",
+        "srvfi.top",
+        "thirdislandchain.com",
+        "ultrahd.net",
+        "woniu.video",
+        "zmpt.cc"
+      ]
+    },
+    {
+      "source_ip_cidr": [
+        "192.168.100.4/32",
+        "192.168.100.5/32"
+      ]
+    }
+  ],
+  "version": 2
+}

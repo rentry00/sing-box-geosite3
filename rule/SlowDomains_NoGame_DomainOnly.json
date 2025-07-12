@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api.follow.is",
+        "cdn.images.letsenhance.io",
+        "ftp.agdsn.de",
+        "ftp.fau.de",
+        "ftp.gwdg.de",
+        "hstock.s3.eu-central-1.amazonaws.com",
+        "mirror.kumi.systems",
+        "mirror.ossplanet.net",
+        "openpanel.follow.is",
+        "smsactivate.s3.eu-central-1.amazonaws.com",
+        "store.fastly.steamstatic.com",
+        "webp.follow.is"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "f-droid.org",
+        "hstock.org",
+        "jotform.com",
+        "linux.do",
+        "savetwitter.net",
+        "sms-activate.guru",
+        "sms-activate.io",
+        "twcdn.xyz",
+        "vocadb.net",
+        "wallheaven.cc"
+      ]
+    }
+  ],
+  "version": 2
+}

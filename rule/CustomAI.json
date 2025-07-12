@@ -1,0 +1,70 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev",
+        "alkalicore-pa.clients6.google.com",
+        "android.chat.openai.com",
+        "api.github.com",
+        "apple-relay.apple.com",
+        "apple-relay.cloudflare.com",
+        "bard.google.com",
+        "chat.openai.com.cdn.cloudflare.net",
+        "copilot.microsoft.com",
+        "gateway.ai.cloudflare.com",
+        "gemini.google.com",
+        "guzzoni.smoot.apple.com",
+        "ios.chat.openai.com",
+        "o33249.ingest.sentry.io",
+        "openaiapi-site.azureedge.net",
+        "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+        "openaicomproductionae4b.blob.core.windows.net",
+        "production-openaicom-storage.azureedge.net",
+        "sora-cdn.oaistatic.com",
+        "waa-pa.clients6.google.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "alkalimakersuite-pa.clients6.google.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ai.google.dev",
+        "aistudio.google.com",
+        "alkalicore-pa.clients6.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "alkalimetricsink-pa.clients6.google.com",
+        "apis.google.com",
+        "bard.google.com",
+        "byteoversea.com",
+        "cdn.oaistatic.com",
+        "challenges.cloudflare.com",
+        "ciciai.com",
+        "ciciaicdn.com",
+        "civitai.com",
+        "content-autofill.googleapis.com",
+        "content-developerprofiles-pa.googleapis.com",
+        "coze.com",
+        "deepmind.com",
+        "deepmind.google",
+        "geller-pa.googleapis.com",
+        "gemini.google.com",
+        "generativeai.google",
+        "generativelanguage.googleapis.com",
+        "githubcopilot.com",
+        "makersuite.google.com",
+        "meta.ai",
+        "notebooklm.google",
+        "notebooklm.google.com",
+        "oaiusercontent.com",
+        "openaiapi-site.azureedge.net",
+        "opera-api.com",
+        "proactivebackend-pa.googleapis.com",
+        "sora.com"
+      ]
+    }
+  ],
+  "version": 2
+}

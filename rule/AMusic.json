@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "aod.itunes.g.aaplimg.com",
+        "fpinit.edge-itunes-apple.com.akadns.net",
+        "musicstatus.edge-itunes-apple.com.akadns.net"
+      ]
+    }
+  ],
+  "version": 2
+}

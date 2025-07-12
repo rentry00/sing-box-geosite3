@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "asmrconnecting.xyz",
+        "dcg.microsoft.com",
+        "ero.plumz.me",
+        "lmgx-my.sharepoint.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "foxmail",
+        "trustfar"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cloudapp.azure.com",
+        "cloudapp.net",
+        "grtsports.com",
+        "inari.site",
+        "kfpromax.com",
+        "lenovo.com.cn",
+        "mistakey.top",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "shangzhibo.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "router.asus.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "example",
+        "home.arpa",
+        "invalid",
+        "lan",
+        "local",
+        "localdomain",
+        "localhost",
+        "localhost.ptlogin2.qq.com",
+        "localhost.sec.qq.com",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "test"
+      ]
+    }
+  ],
+  "version": 2
+}

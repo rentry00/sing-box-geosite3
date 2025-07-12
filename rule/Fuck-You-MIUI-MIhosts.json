@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "a.hl.mi.com",
+        "adv.sec.miui.com",
+        "api.installer.xiaomi.com",
+        "api.jr.mi.com",
+        "cn.app.chat.xiaomi.net",
+        "etl-xlmc-ssl.sandai.net",
+        "flash.sec.miui.com",
+        "idm.api.io.mi.com",
+        "ixav-cse.avlyun.com",
+        "log.avlyun.sec.intl.miui.com",
+        "logupdate.avlyun.sec.miui.com",
+        "miav-cse.avlyun.com",
+        "miui-fxcse.avlyun.com",
+        "sdkconf.avlyun.com",
+        "ssl-cdn.static.browser.mi-img.com",
+        "tmfsdk.m.qq.com",
+        "update.avlyun.sec.miui.com",
+        "xlmc.sec.miui.com"
+      ]
+    }
+  ],
+  "version": 2
+}

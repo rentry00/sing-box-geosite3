@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api.supermariorun.com",
+        "assets.app-ofcr.net",
+        "gamesvr1.pokemon-unitepgame.com",
+        "loginserver.pokemmo.com",
+        "loginserver.sea.pokemmo.com"
+      ]
+    }
+  ],
+  "version": 2
+}

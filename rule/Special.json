@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "vercel.app"
+      ]
+    }
+  ],
+  "version": 2
+}

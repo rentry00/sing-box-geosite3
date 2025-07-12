@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "amz.fmta.boo",
+        "board.fmta.boo",
+        "my.recmata.net",
+        "smart.fmta.boo"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "acggw.club",
+        "bityun.co",
+        "browserleaks.com",
+        "browserleaks.net",
+        "browserleaks.org",
+        "buzzheavier.com",
+        "dnsleaktest.com",
+        "ipleak.net",
+        "justmysocks2.net",
+        "nordcdn.com",
+        "proxy.888005.xyz",
+        "proxy.incolumitas.com",
+        "surfsharkdns.com",
+        "tntv2.shop",
+        "tntyun.xyz",
+        "whoer.net"
+      ]
+    }
+  ],
+  "version": 2
+}

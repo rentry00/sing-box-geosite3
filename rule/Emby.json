@@ -1,0 +1,70 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cc.coemn.com",
+        "cc.embycc.link",
+        "cdn.lyrebirdemby.com",
+        "cdsalw2lw.catlinks.co.uk",
+        "cf.bili.rip",
+        "cf.carlos.trade",
+        "cf.gtlx.org",
+        "css.pilipili.club:443",
+        "dl.carryz.net",
+        "drei.bgka.me",
+        "emby.233988.xyz",
+        "emby.9191001.xyz",
+        "emby.as174.de",
+        "emby.bangumi.ca",
+        "emby.carlos.trade",
+        "emby.nebula-media.org",
+        "emby3.029902.xyz",
+        "embymv.link",
+        "embyplus.org",
+        "flare.catlinks.co.uk",
+        "gd.9521732.xyz",
+        "hxd.as174.de",
+        "hyonix.embyplus.org",
+        "manga.pilipiliultra.com",
+        "misty.cx",
+        "music.xxxh.de",
+        "nh.910427.xyz",
+        "osccxw.starcat.eu.org",
+        "pilipili.club",
+        "play.charontv.com",
+        "poxi.233988.xyz",
+        "pub1.emby.wtf",
+        "pub1.term.wtf",
+        "pub1cf.emby.wtf",
+        "pub2.emby.wtf",
+        "pub2.term.wtf",
+        "pub2cf.emby.wtf",
+        "pub3.emby.wtf",
+        "pub3.term.wtf",
+        "pub3cf.emby.wtf",
+        "s3.bgka.me",
+        "sefsehf3hiu2345ioj235.puddingcat.de",
+        "shuigawd921hfs-ef27893hrsf.catlinks.co.uk",
+        "starcat-gshou.887711.xyz",
+        "streamer.pilipiliultra.com",
+        "t.emby.pro",
+        "tanhuatv.site",
+        "tv.worldline.space",
+        "us.carlos.trade",
+        "wu2qu382uwb2y431-wxbki2.catlink.eu.org",
+        "xxx.887711.xyz"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.177.137.228/32",
+        "104.194.8.196/32",
+        "167.114.64.176/32",
+        "168.138.45.100/32",
+        "193.123.232.141/32",
+        "89.58.18.111/32"
+      ]
+    }
+  ],
+  "version": 2
+}

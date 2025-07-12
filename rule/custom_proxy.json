@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "res.e39x.com",
+        "vdownload.hembed.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "2dfan",
+        "freemdict"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "erogame.space",
+        "exhobby.net",
+        "f1calendar.com",
+        "guguzhen.com",
+        "hacg.me",
+        "icekylin.online",
+        "miaola.work",
+        "momozhen.com",
+        "racefans.net",
+        "services.googleapis.cn",
+        "south-plus.net",
+        "xn--ngstr-lra8j.com"
+      ]
+    }
+  ],
+  "version": 2
+}

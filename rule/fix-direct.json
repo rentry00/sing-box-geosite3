@@ -1,0 +1,44 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "gst.prod.dl.playstation.net",
+        "ottsdk.itv.video",
+        "tempmail.plus"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "4820286.xyz",
+        "alice.ws",
+        "apple-dns.cn",
+        "archive.org",
+        "cloudstudio.work",
+        "cocopilot.org",
+        "coverartarchive.org",
+        "czzyvideo.com",
+        "ghp.ci",
+        "gradio.live",
+        "imee.me",
+        "iqiyis.com",
+        "istoreos.com",
+        "kelee.one",
+        "musicbrainz.org",
+        "ngrok-free.app",
+        "ntp.org",
+        "oaifree.com",
+        "quickconnect.to",
+        "speedtest.cn",
+        "steamcontent.com",
+        "synology.com",
+        "tempmail.plus"
+      ]
+    },
+    {
+      "port": [
+        "123"
+      ]
+    }
+  ],
+  "version": 2
+}

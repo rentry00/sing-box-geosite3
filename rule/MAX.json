@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.discomax.com",
+        "max.com"
+      ]
+    }
+  ],
+  "version": 2
+}

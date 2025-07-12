@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "addons.mozilla.org",
+        "api.accounts.firefox.com",
+        "cable.ua5v.com",
+        "cdn.androidcombo.com",
+        "cdn.apkflash.net",
+        "detectportal.firefox.com",
+        "doodles.google",
+        "download3.navicat.com",
+        "enclave.ua5v.com",
+        "gallerycdn.vsassets.io",
+        "graphql.accounts.firefox.com",
+        "h5games.usercontent.goog",
+        "matsuridayo.github.io",
+        "maxcdn.bootstrapcdn.com",
+        "oauth.accounts.firefox.com",
+        "tndk0011.netlify.app",
+        "wiki.metacubex.one"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "apkcombo.app",
+        "apkflash.com",
+        "colamanga.com",
+        "datronicsoft.de",
+        "ero-labs.com",
+        "hiddifynext.com",
+        "instalker.org",
+        "nodeseek.com",
+        "octocaptcha.com",
+        "shazam.com",
+        "spacedesk.net",
+        "surveycake.com",
+        "v2raya.org",
+        "v2rayse.com",
+        "v2rayssr.com",
+        "z-library.sk",
+        "zettlr.com"
+      ]
+    }
+  ],
+  "version": 2
+}

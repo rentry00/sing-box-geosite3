@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "akamaized.net",
+        "anchin.vip",
+        "animexin.vip",
+        "box.com",
+        "dmcdn.net",
+        "domp4.net",
+        "download.gg",
+        "drive-data-export.usercontent.google.com",
+        "drive.usercontent.google.com",
+        "filelions.com",
+        "krakenfiles.com",
+        "kuaikanzy.net",
+        "lions-vidcdn.com",
+        "mediafire.com",
+        "mega.co.nz",
+        "mega.nz",
+        "microsoft.com",
+        "mirrobox.com",
+        "rumble.cloud",
+        "rumble.com",
+        "terabox.com",
+        "turbobit.net",
+        "vip.kuaikan-cdn2.com",
+        "windows.com",
+        "windowsupdate.com",
+        "zippyshare.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "149.154.167.91"
+      ]
+    }
+  ],
+  "version": 2
+}

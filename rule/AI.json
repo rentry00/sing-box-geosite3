@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "app.chatvid.ai",
+        "kagi.com",
+        "s0.dev",
+        "www.perplexity.ai",
+        "www.phind.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "anthropic"
+      ]
+    }
+  ],
+  "version": 2
+}
