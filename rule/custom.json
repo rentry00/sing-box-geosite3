@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gitmirror.com",
+        "ihtw.moe",
+        "sharepoint.cn",
+        "steamserver.net"
+      ]
+    }
+  ],
+  "version": 2
+}
