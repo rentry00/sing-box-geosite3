@@ -39,6 +39,7 @@
       "domain_suffix": [
         "ai.azure.com",
         "ai.com",
+        "aisandbox-pa.googleapis.com",
         "aistudio.google.com",
         "anthropic.com",
         "auth0.com",
@@ -83,6 +84,7 @@
         "jasper.ai",
         "jules.google",
         "jules.google.com",
+        "labs.google",
         "makersuite.google.com",
         "meta.ai",
         "mistral.ai",
