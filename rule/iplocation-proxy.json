@@ -23,9 +23,6 @@
         "god.gameyw.netease.com",
         "gsp0.baidu.com",
         "hm.baidu.com",
-        "httpdns.baidu.com",
-        "httpdns.baidubce.com",
-        "httpsdns.baidu.com",
         "keylol.com",
         "lbs.netease.im",
         "mam.netease.com",
@@ -71,11 +68,13 @@
     },
     {
       "domain_suffix": [
+        "amemv.com",
         "biliapi.com",
         "biliapi.net",
         "bilibili.com",
         "dongqiudi.com",
         "douban.com",
+        "douyinvod.com",
         "douyu.com",
         "douyucdn.cn",
         "gifshow.com",
