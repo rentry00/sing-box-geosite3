@@ -1,4 +1,15 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_keyword": [
+        "dlercloud"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dlercloud.com"
+      ]
+    }
+  ],
   "version": 2
 }

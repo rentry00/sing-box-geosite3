@@ -1,4 +1,11 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "proxy.888005.xyz",
+        "proxy.incolumitas.com"
+      ]
+    }
+  ],
   "version": 2
 }
