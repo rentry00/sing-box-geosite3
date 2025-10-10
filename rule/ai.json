@@ -3,6 +3,7 @@
     {
       "domain": [
         "ai.google.dev",
+        "aisandbox-pa.googleapis.com",
         "aistudio.google.com",
         "alkalicore-pa.clients6.google.com",
         "alkalimakersuite-pa.clients6.google.com",
@@ -22,6 +23,7 @@
         "openaicomproductionae4b.blob.core.windows.net",
         "pplx-res.cloudinary.com",
         "production-openaicom-storage.azureedge.net",
+        "robinfrontend-pa.googleapis.com",
         "servd-anthropic-website.b-cdn.net",
         "sydney.bing.com",
         "webchannel-alkalimakersuite-pa.clients6.google.com"
