@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "github-api.arkoselabs.com",
         "github-cloud.s3.amazonaws.com",
         "vsmarketplacebadge.apphb.com"
       ]
@@ -567,6 +568,7 @@
         "o365weve-ppe.com",
         "o365weve.com",
         "oaspapps.com",
+        "octocaptcha.com",
         "office",
         "office.com",
         "office.net",

@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "yt3.googleusercontent.com"
+      ]
+    },
+    {
       "domain_keyword": [
         "youtube"
       ]
