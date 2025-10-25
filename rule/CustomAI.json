@@ -8,11 +8,15 @@
         "api.github.com",
         "apple-relay.apple.com",
         "apple-relay.cloudflare.com",
+        "apple-relay.fastly-edge.com",
         "bard.google.com",
         "chat.openai.com.cdn.cloudflare.net",
         "copilot.microsoft.com",
+        "cp4.cloudflare.com",
         "gateway.ai.cloudflare.com",
         "gemini.google.com",
+        "gspe1-ssl.ls.apple.com",
+        "guzzoni.apple.com",
         "guzzoni.smoot.apple.com",
         "ios.chat.openai.com",
         "o33249.ingest.sentry.io",
@@ -62,6 +66,7 @@
         "openaiapi-site.azureedge.net",
         "opera-api.com",
         "proactivebackend-pa.googleapis.com",
+        "smoot.apple.com",
         "sora.com"
       ]
     }
