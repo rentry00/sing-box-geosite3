@@ -1,39 +1,4 @@
 {
-  "rules": [
-    {
-      "domain": [
-        "/>",
-        "<!doctype",
-        "</head>",
-        "</html>",
-        "<body>",
-        "<div",
-        "<head>",
-        "<html",
-        "<link",
-        "<meta",
-        "<script",
-        "<script>(function(){function",
-        "<title>Cloudflare",
-        "Registrar</title>",
-        "a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else",
-        "a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);\";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var",
-        "b=a.contentDocument||a.contentWindow.document;if(b){var",
-        "c(){var",
-        "charset=\"UTF-8\"",
-        "href=\"https://parking.cloudflareregistrar.com/assets/style.css\"",
-        "href=\"https://parking.cloudflareregistrar.com/favicon.ico\"",
-        "html>",
-        "id=\"app\"></div>",
-        "initial-scale=1.0\"",
-        "lang=\"en\">",
-        "name=\"viewport\"",
-        "rel=\"icon\"",
-        "rel=\"stylesheet\"",
-        "src=\"https://parking.cloudflareregistrar.com/assets/main.js\"></script>",
-        "type=\"module\""
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
