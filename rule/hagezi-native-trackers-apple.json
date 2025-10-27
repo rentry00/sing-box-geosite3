@@ -92,10 +92,12 @@
         "supportmetrics.apple.com",
         "supportmetrics.v.aaplimg.com",
         "weather-analytics-events.apple.com",
+        "xp-cdn-lb.itunes-apple.com.akadns.net",
         "xp-cdn.apple.com",
         "xp.apple.com",
         "xp.apple.com.edgekey.net",
-        "xp.itunes-apple.com.akadns.net"
+        "xp.itunes-apple.com.akadns.net",
+        "xp.v.aaplimg.com"
       ]
     }
   ],
