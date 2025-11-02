@@ -3,6 +3,7 @@
     {
       "domain": [
         "ai.google.dev",
+        "aida.googleapis.com",
         "aisandbox-pa.googleapis.com",
         "aistudio.google.com",
         "alkalicore-pa.clients6.google.com",
@@ -57,6 +58,7 @@
         "claudeusercontent.com",
         "client-api.arkoselabs.com",
         "clipdrop.co",
+        "cloudcode-pa.googleapis.com",
         "coderabbit.ai",
         "coderabbit.gallery.vsassets.io",
         "copilot.cloud.microsoft",
