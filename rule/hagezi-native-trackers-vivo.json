@@ -40,6 +40,7 @@
         "asia-vpushonrt-stsdk.vivoglobal.com",
         "asia-vpushort-stsdk.vivoglobal.com",
         "az.appstore.vivo.com.cn",
+        "br-p.vivoglobal.com",
         "cl-vcode-od.vivoglobal.com",
         "cname-ali-asia-stsdk.vivoglobal.com",
         "cname-asia-st-exappupgrade.vivoglobal.com",
@@ -98,6 +99,7 @@
         "in-apport-stsdk.vivoglobal.com",
         "in-apppnrt-stsdk.vivoglobal.com",
         "in-appprt-stsdk.vivoglobal.com",
+        "in-cfg-stsdk.vivoglobal.com",
         "in-cota.vivoglobal.com",
         "in-ctdbonrt-stsdk.vivoglobal.com",
         "in-ctdbort-stsdk.vivoglobal.com",
@@ -221,7 +223,8 @@
         "vhs.wwstat.com.ctdns.cn",
         "vhs.wwstat.com.eo.dnse0.com",
         "vhs.wwstat.com.eo.unicomcdn.com.cn",
-        "xn-ex-adreq-asa-c5b.vivoglobal.com"
+        "xn-ex-adreq-asa-c5b.vivoglobal.com",
+        "zasc-cota.vivoglobal.com"
       ]
     }
   ],
