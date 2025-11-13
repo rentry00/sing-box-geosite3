@@ -69,6 +69,7 @@
         "cohere.com",
         "copilot.cloud.microsoft",
         "copilot.microsoft.com",
+        "coze.com",
         "cursor-cdn.com",
         "cursor.com",
         "cursor.sh",
@@ -104,6 +105,7 @@
         "jules.google.com",
         "labs.google",
         "makersuite.google.com",
+        "marscode.com",
         "meta.ai",
         "mistral.ai",
         "notebooklm.google",
@@ -123,6 +125,7 @@
         "proactivebackend-pa.googleapis.com",
         "robinfrontend-pa.googleapis.com",
         "sora.com",
+        "trae.ai",
         "turn.livekit.cloud",
         "vercel.ai",
         "x.ai"
