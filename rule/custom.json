@@ -1,4 +1,17 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "ponte-stun.nssurge.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gitmirror.com",
+        "sharepoint.cn",
+        "steamserver.net"
+      ]
+    }
+  ],
   "version": 2
 }
