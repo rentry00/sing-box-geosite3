@@ -30,6 +30,7 @@
         "ipleak.net",
         "ipw.cn",
         "jsonp-ip.com",
+        "l.google.com",
         "null-addr.biz",
         "null-addr.com",
         "null-addr.info",
@@ -41,7 +42,6 @@
         "speedtest.cn",
         "speedtest.net",
         "sspanel.net",
-        "stun.l.google.com",
         "surfshark.com",
         "surfsharkdns.com",
         "test-ipv6.com",
@@ -53,7 +53,8 @@
     },
     {
       "ip_cidr": [
-        "142.251.215.0/24"
+        "142.251.215.0/24",
+        "74.125.250.129/24"
       ]
     }
   ],
