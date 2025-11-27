@@ -2,7 +2,8 @@
   "rules": [
     {
       "domain": [
-        "api.smoot.apple.cn"
+        "api.smoot.apple.cn",
+        "appleintelligencefeedback.care.apple.com"
       ]
     },
     {
