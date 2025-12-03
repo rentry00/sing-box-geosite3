@@ -2,6 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "genspark.ai",
+        "manus.im",
         "meta.ai",
         "metademolab.com"
       ]
