@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "ads-api.vivo.com",
         "adxlog-adnet.vivo.com.cn",
         "appstore-trace-h5sdk.vivo.com.cn",
         "asia-abeacdataonrt-stsdk.vivoglobal.com",
@@ -224,7 +225,8 @@
         "vhs.wwstat.com.eo.dnse0.com",
         "vhs.wwstat.com.eo.unicomcdn.com.cn",
         "xn-ex-adreq-asa-c5b.vivoglobal.com",
-        "zasc-cota.vivoglobal.com"
+        "zasc-cota.vivoglobal.com",
+        "zasc-vcode-od.vivoglobal.com"
       ]
     }
   ],
