@@ -2,7 +2,8 @@
   "rules": [
     {
       "domain": [
-        "aida.googleapis.com"
+        "aida.googleapis.com",
+        "www.google.com"
       ]
     }
   ],
