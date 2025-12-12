@@ -4,6 +4,10 @@
       "domain": [
         "lf16-effectcdn.byteeffecttos-g.com",
         "lf16-pkgcdn.pitaya-clientai.com",
+        "roovza-launches.appsflyersdk.com",
+        "roovza.inapps.appsflyersdk.com",
+        "roovza.launches.appsflyersdk.com",
+        "roovza.skadsdk.appsflyersdk.com",
         "trae-api-sg.mchost.guru"
       ]
     },
@@ -73,6 +77,7 @@
         "tiktok-lb-alisg.byteoversea.net",
         "tiktok-lb-maliva.byteoversea.net",
         "tiktok-lb-texas.useast5.byteoversea.net.byteigtm.com",
+        "tiktok-minis.com",
         "tiktok-platform-lb-alisg.byteoversea.net",
         "tiktok-platform-lb-maliva.byteoversea.net",
         "tiktok-row.net",
