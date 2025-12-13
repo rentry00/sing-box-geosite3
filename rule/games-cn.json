@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "blzdist-d3.necdn.leihuo.netease.com",
         "blzdist-di.necdn.leihuo.netease.com",
         "blzdist-hs.necdn.leihuo.netease.com",
         "blzdist-ow.necdn.leihuo.netease.com",
@@ -22,6 +23,7 @@
         "steampipe.steamcontent.tnkjmec.com",
         "tlu.dl.delivery.mp.microsoft.com",
         "trts.baishancdnx.cn",
+        "ubisoftconnect.eo-edgefunctions7.com",
         "uplaypc-s-ubisoft.cdn.ubi.com",
         "uplaypc-s-ubisoft.cdn.ubionline.com.cn",
         "www4-static.gog-statics.com",
