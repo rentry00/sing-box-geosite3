@@ -128,6 +128,8 @@
         "kiro.dev",
         "labs.google",
         "labs.google.com",
+        "liveperson.net",
+        "lpsnmedia.net",
         "makersuite.google.com",
         "marscode.com",
         "meta.ai",
@@ -155,7 +157,10 @@
         "trae.ai",
         "turn.livekit.cloud",
         "vercel.ai",
-        "x.ai"
+        "x.ai",
+        "youmind.ai",
+        "youmind.com",
+        "youmind.site"
       ]
     }
   ],
