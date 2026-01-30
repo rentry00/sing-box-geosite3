@@ -1,11 +1,4 @@
 {
-  "rules": [
-    {
-      "domain": [
-        "aida.googleapis.com",
-        "www.google.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
