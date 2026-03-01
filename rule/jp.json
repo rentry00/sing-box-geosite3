@@ -2,14 +2,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "azurlane.jp",
         "fig-memo-r18.site",
         "melonbooks.co.jp",
         "moepedia.net",
         "prestige-av.com",
-        "syosetu.org",
-        "yo-star.com",
-        "yostarplat.com"
+        "syosetu.org"
       ]
     }
   ],
