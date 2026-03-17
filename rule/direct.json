@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "127.atlas.skk.moe",
         "acg.tv",
         "assets1.xboxlive.cn",
         "assets2.xboxlive.cn",
@@ -142,8 +143,6 @@
         "126.com",
         "126.link",
         "126.net",
-        "127.0.0.1.sslip.io",
-        "127.atlas.skk.moe",
         "127.com",
         "127.net",
         "139.com",
