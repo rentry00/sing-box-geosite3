@@ -2,6 +2,9 @@
   "rules": [
     {
       "domain": [
+        "ggbases.dlgal.com",
+        "onahodouga.com",
+        "plumz.me",
         "res.e39x.com",
         "vdownload.hembed.com"
       ]
@@ -16,6 +19,7 @@
     {
       "domain_suffix": [
         "azurlane.jp",
+        "bangumi.tv",
         "erogame.space",
         "exhobby.net",
         "f1calendar.com",
@@ -28,11 +32,11 @@
         "miaola.work",
         "momozhen.com",
         "namu.wiki",
+        "omiai-dakimakura.com",
         "racefans.net",
         "redgifs.com",
         "services.googleapis.cn",
         "south-plus.net",
-        "xn--ngstr-lra8j.com",
         "yo-star.com",
         "yostarplat.com"
       ]
