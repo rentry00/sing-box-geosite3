@@ -25,7 +25,9 @@
         "kotobank.jp",
         "mistakey.top",
         "msftconnecttest.com",
-        "msftncsi.com"
+        "msftncsi.com",
+        "test-01-cn.gladns.com",
+        "test-01-cn.gladns.net"
       ]
     }
   ],
