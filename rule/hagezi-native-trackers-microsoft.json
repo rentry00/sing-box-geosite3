@@ -37,6 +37,7 @@
         "analyticsehnwe.servicebus.windows.net",
         "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
         "analyticspixel.microsoft.com",
+        "api.applicationinsights.azure.cn",
         "api.edgeoffer.microsoft.com",
         "applicationinsights.azure.com",
         "applicationinsights.microsoft.com",
@@ -45,6 +46,7 @@
         "arc1.msn.com",
         "arc2.msn.com",
         "arc3.msn.com",
+        "arc5.msn.com",
         "arc9.msn.com",
         "auc-visio-telemetry.officeapps.live.com",
         "az667904.vo.msecnd.net",
@@ -302,6 +304,7 @@
         "prod-eventhub-analytics.servicebus.windows.net",
         "production-jobactivity-analytics.servicebus.windows.net",
         "rad.live.com",
+        "rad.microsoft.com",
         "rads.msn.com",
         "raka.bing.com",
         "rawtelemetry-east.servicebus.windows.net",
@@ -385,6 +388,11 @@
         "word-telemetry.officeapps.live.com",
         "word-telemetry.wac.trafficmanager.net",
         "wttwebsiteprodapi-liveevents.trafficmanager.net",
+        "www.a.ads1.msn.com",
+        "www.a.ads2.msn.com",
+        "www.ads1.msn.com",
+        "www.adsinapps.microsoft.com",
+        "www.b.ads1.msn.com",
         "zmetrics.msn.com"
       ]
     }
