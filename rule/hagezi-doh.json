@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "001.smallnode.net",
         "003153.xyz",
         "0815cloud.de",
         "0ms.dev",
@@ -1471,7 +1470,6 @@
         "dns.quad9.net",
         "dns.quanhd.net",
         "dns.quickline.ch",
-        "dns.quickso.cn",
         "dns.quiet.rocks",
         "dns.rabbitdns.org",
         "dns.ramansarda.com",
@@ -2936,7 +2934,6 @@
         "r1bnc.com",
         "r1bnc.eu.org",
         "rafi.dynns.com",
-        "raj.pw",
         "ramy.run.place",
         "rasp.matthias-iwer.de",
         "rayneau.fr",
@@ -3098,6 +3095,7 @@
         "shield.kidshielder.com",
         "shield1.eranext.net",
         "shinano.anime.com.my",
+        "shitblocker.com",
         "siddeus.synology.me",
         "sig.bxq.net",
         "signsservers.ru",
