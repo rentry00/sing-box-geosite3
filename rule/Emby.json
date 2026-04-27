@@ -4,47 +4,9 @@
       "domain": [
         "cc.coemn.com",
         "cc.embycc.link",
-        "cf.bili.rip",
-        "cf.carlos.trade",
-        "cf.gtlx.org",
         "dl.carryz.net",
-        "drei.bgka.me",
-        "emby.233988.xyz",
-        "emby.9191001.xyz",
-        "emby.as174.de",
-        "emby.bangumi.ca",
-        "emby.carlos.trade",
-        "emby.nebula-media.org",
-        "embymv.link",
-        "hxd.as174.de",
-        "link00.okemby.org",
-        "lite.cn2gias.uk",
-        "misty.cx",
-        "music.xxxh.de",
-        "nh.910427.xyz",
-        "poxi.233988.xyz",
-        "pub1.emby.wtf",
-        "pub1.term.wtf",
-        "pub1cf.emby.wtf",
-        "pub2.emby.wtf",
-        "pub2.term.wtf",
-        "pub2cf.emby.wtf",
-        "pub3.emby.wtf",
-        "pub3.term.wtf",
-        "pub3cf.emby.wtf",
-        "s3.bgka.me",
-        "t.emby.pro",
-        "tanhuatv.site",
-        "tv.worldline.space",
-        "us.carlos.trade"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "103.177.137.228/32",
-        "104.194.8.196/32",
-        "168.138.45.100/32",
-        "193.123.232.141/32"
+        "emby.kingemby.xyz",
+        "link00.okemby.org"
       ]
     }
   ],
