@@ -272,6 +272,11 @@
         "xn--ohq11k7pl25iyo8a.cn",
         "xp.apple.com"
       ]
+    },
+    {
+      "ip_cidr": [
+        "17.0.0.0/8"
+      ]
     }
   ],
   "version": 2
