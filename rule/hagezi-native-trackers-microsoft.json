@@ -108,6 +108,7 @@
         "citrixanalyticseh.servicebus.windows.net",
         "citrixanalyticseh2-alias.servicebus.windows.net",
         "citrixanalyticseh3-alias.servicebus.windows.net",
+        "citrixanalyticseh3.servicebus.windows.net",
         "citrixanalyticsehaps-alias.servicebus.windows.net",
         "citrixanalyticsehaps.servicebus.windows.net",
         "citrixanalyticseheu-alias.servicebus.windows.net",

@@ -1,7 +1,18 @@
 {
   "rules": [
     {
+      "domain": [
+        "download.docker.com"
+      ]
+    },
+    {
       "domain_suffix": [
+        "akamaized.net",
+        "amazonaws.com",
+        "cloudfront.net",
+        "download.unity3d.com",
+        "scdn.co",
+        "spotifycdn.net",
         "vercel.app"
       ]
     }
