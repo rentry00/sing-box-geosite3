@@ -2,7 +2,8 @@
   "rules": [
     {
       "domain": [
-        "bbs.boingboing.net"
+        "bbs.boingboing.net",
+        "www.quora.com.cdn.cloudflare.net"
       ]
     },
     {
