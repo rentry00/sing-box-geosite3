@@ -145,6 +145,7 @@
         "coincodex.com",
         "coindesk.com",
         "coinex.com",
+        "coingate.com",
         "coingecko.com",
         "coinglass.com",
         "coinmap.org",
@@ -245,6 +246,7 @@
         "huobiasia.vip",
         "huobigroup.com",
         "huobitoken.com",
+        "hyperliquid.xyz",
         "icodrops.com",
         "infura.io",
         "intotheblock.com",
@@ -256,6 +258,8 @@
         "kraken.onl",
         "kucoin.com",
         "kucoin.plus",
+        "lighter.exchange",
+        "lighter.xyz",
         "lightning.community",
         "lightning.engineering",
         "liquid.com",
@@ -373,6 +377,7 @@
         "zb.com",
         "zb.io",
         "zb.live",
+        "zklighter.elliot.ai",
         "zkscan.io",
         "zksync.io"
       ]
