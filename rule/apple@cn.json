@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "amp-api.podcasts.apple.com",
         "api.smoot.apple.cn",
         "appleintelligencefeedback.care.apple.com",
         "cdn-cn.apple-mapkit.com",
@@ -18,6 +19,7 @@
         "init.gc-lb.apple.com.akadns.net",
         "init.gc.apple.com",
         "maps.apple.com",
+        "podcasts.apple.com",
         "s1.mzstatic.com",
         "s2.mzstatic.com",
         "s3.mzstatic.com",
