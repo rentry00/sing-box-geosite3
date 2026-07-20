@@ -1,4 +1,10 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_suffix": [
+        "arena.ai"
+      ]
+    }
+  ],
   "version": 2
 }
