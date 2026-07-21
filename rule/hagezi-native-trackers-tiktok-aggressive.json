@@ -3,6 +3,7 @@
     {
       "domain_suffix": [
         "abtest-ch.snssdk.com",
+        "ad-format-sg.tiktokv.com",
         "ad-instantpage-ru.tiktokv.com",
         "ad-instantpage-sg.tiktokv.com",
         "ad-instantpage-sg.tiktokv.com.edgekey.net",
@@ -435,7 +436,6 @@
         "pc-mon16-normal-us-ttp.capcutapi.us",
         "rtc-logger-i18n.tiktokv.com",
         "rtc-logger-ie.tiktokv.eu",
-        "rtc-logger-ttp2.tiktokv.us",
         "rtc-logger-ttp2.us.tiktokv.com",
         "rtc-logger-va.tiktokv.com",
         "rtc-logger.tiktokv.com",
