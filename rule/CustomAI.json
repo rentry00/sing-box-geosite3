@@ -23,6 +23,8 @@
         "humb.apple.com",
         "images.workoscdn.com",
         "ios.chat.openai.com",
+        "mask-api.fe.apple-dns.net",
+        "mask-t.apple-dns.net",
         "o33249.ingest.sentry.io",
         "openaiapi-site.azureedge.net",
         "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
@@ -37,7 +39,8 @@
     },
     {
       "domain_keyword": [
-        "alkalimakersuite-pa.clients6.google.com"
+        "alkalimakersuite-pa.clients6.google.com",
+        "siri"
       ]
     },
     {
