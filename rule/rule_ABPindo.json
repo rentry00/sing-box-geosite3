@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "a.magsrv.com",
         "accesstrade.co.id",
         "ad-loupe.com",
         "addesigner.com",
@@ -107,6 +108,7 @@
         "pasangiklan.com",
         "paypopup.com",
         "pondokiklan.com",
+        "poweredby.jads.co",
         "promobagus.com",
         "promotioncamp.com",
         "props.id",
