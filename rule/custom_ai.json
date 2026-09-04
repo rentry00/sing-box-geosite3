@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain_keyword": [
+        "google"
+      ]
+    },
+    {
       "domain_suffix": [
         "arena.ai",
         "google.com"
