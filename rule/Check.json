@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "challenges.cloudflare.com",
         "speed.cloudflare.com"
       ]
     },
