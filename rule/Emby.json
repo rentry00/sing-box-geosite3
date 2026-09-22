@@ -4,9 +4,29 @@
       "domain": [
         "cc.coemn.com",
         "cc.embycc.link",
-        "dl.carryz.net",
-        "emby.kingemby.xyz",
-        "link00.okemby.org"
+        "cf.bili.rip",
+        "emby.9191001.xyz",
+        "emby.as174.com",
+        "emby.as174.de",
+        "emby.bangumi.ca",
+        "emby.pilipiliultra.com",
+        "emby4.029902.xyz",
+        "embymv.link",
+        "embyplus.org",
+        "hxd.as174.de",
+        "link00.okemby.org",
+        "lt1.carryz.net",
+        "manga.pilipiliultra.com",
+        "misty.cx",
+        "stream.embyplus.org",
+        "streamer-cf.pilipiliultra.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.177.137.228/32",
+        "146.56.174.58/32",
+        "152.53.81.68/32"
       ]
     }
   ],
